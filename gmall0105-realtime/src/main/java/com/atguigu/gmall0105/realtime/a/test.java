@@ -4,7 +4,8 @@ public class test {
     public static void main(String[] args) {
         System.out.println("aaaa");
         System.out.println("ffff");
-        System.out.println("rr");
+        System.out.println("rrdwa");
+        System.out.println("pppp");
 
     }
 }
