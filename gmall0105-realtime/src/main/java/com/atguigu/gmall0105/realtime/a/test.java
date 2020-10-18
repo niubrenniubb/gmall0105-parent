@@ -7,6 +7,7 @@ public class test {
         System.out.println("rrdwa");
         System.out.println("pppp");
         System.out.println("11111");
+        System.out.println("22222");
 
     }
 }
